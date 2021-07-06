@@ -45,7 +45,7 @@ library
     include-dirs:   include/
 
     -- GHC bundled
-    build-depends:   base                  >= 4.7      && < 4.16
+    build-depends:   base                  >= 4.7      && < 4.17
                    , bytestring            >= 0.10.4.0 && < 0.12
                    , containers            >= 0.5.5.1  && < 0.7
                    , text                  >= 1.2.3.0  && < 1.3
